@@ -1,0 +1,8 @@
+*~
+.DS_Store
+.idea
+settings.xml
+*.iml
+*.jar
+terraform-aws-openshift/.terraform
+node_modules
